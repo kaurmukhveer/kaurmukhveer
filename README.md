@@ -10,7 +10,6 @@ I enjoy learning by building real-world software projects and collaborating with
 
 - Backend Engineering
 - REST APIs
-- Secure Authentication Systems
 - AI-Assisted Applications
 - Database Design
 - Healthcare Technology
@@ -19,7 +18,7 @@ I enjoy learning by building real-world software projects and collaborating with
 
 # Technologies & Hands-On Experience
 
-I have gained hands-on experience working with these technologies through academic and collaborative software projects:
+I have gained hands-on exposure to these technologies through academic and collaborative software projects:
 
 ```text
 Java
@@ -45,7 +44,7 @@ I value:
 - continuous learning
 - clear communication
 - stakeholder-focused thinking
-- integrity and ownership
+- integrity and accountability
 - understanding system fundamentals
 
 I appreciate working in environments where people support each other, learn together, and contribute as a team.
@@ -71,6 +70,19 @@ My primary hands-on contributions included:
 - secure session handling
 - testing and debugging workflows
 
+---
+
+## Software Requirements Engineering Project
+
+Collaborative academic project focused on stakeholder analysis, requirements engineering, system modeling, and iterative documentation.
+
+Key learning areas included:
+- user stories and personas
+- functional and non-functional requirements
+- UML and interface prototyping
+- stakeholder interviews
+- collaborative software documentation
+  
 ---
 
 ## Hotel Booking Relational Design
@@ -105,5 +117,5 @@ This project helped me better understand the importance of:
 - UI/UX design principles using React
 - frontend component design and user experience workflows
 - collaborative design feedback and peer review practices
-- software testing and QA automation
+- software testing and QA automation concepts
 - introductory psychology and determinants of health
