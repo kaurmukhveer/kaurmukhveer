@@ -1,46 +1,109 @@
-## Hi there, I'm Mukhveer Kaur.👋
+# Hi, I'm Mukhveer Kaur 👋
 
-I am a Computer Science student blending formal academic foundations with proven enterprise experience. I focus on first-principles thinking, code integrity, and collaborative problem-solving to build reliable software solutions.
+Computer Science student interested in backend engineering, AI-assisted applications, secure software systems, and healthcare technology.
 
----
-
-### 🛠️ Tech Stack & Foundations
-
-**🏛️ Software Systems & Security**
-* 🛡️ **Design of Secure Computer Systems:** Core architectural safety and threat mitigation mechanisms. `🏆 Top Performer (A+)`
-* 💻 **Operating Systems (OS):** Core processes, memory management, and systems architecture.
-* 🌐 **Intro to Data Communications & Networking:** Core packet-switched routing and network protocols. `🌟 Grade (A-)`
-
-**📋 Product Management & Requirements Engineering**
-* 🏗️ **Intro to Software Engineering:** Core agile systems design and development methodologies. `🏆 Top Performer (A+)`
-* 🔍 **Professional Practice / Requirement Analysis:** System requirement elicitation and enterprise design validation. `✨ Grade (A)`
-* 🏛️ **Object-Oriented Programming (OOP) & Design:** Core foundational paradigms and pattern design.
-* 🧩 **Programming Language Concepts & DSA:** Deep-dive into syntactic compilation, runtime paradigms, and basic structures. `🌟 Grade (A-)`
-
-**🗄️ Databases & Data Intelligence**
-* 📊 **Machine Learning & Intro to Data Science:** Statistical analysis, analytical modeling, and system pattern recognition. `🌟 Grade (A-)`
-* 🗄️ **Relational Databases (Databases 1):** Designing transactional schemas and relational indexing using **PostgreSQL**. `🌟 Grade (A-)`
-
-**💼 Leadership & Enterprise Strategy**
-* 🚀 **Transformational Leadership & Entrepreneurial Society:** Understanding team motivational mechanics and navigating socio-economic innovation. `🏆 Top Performer (A+)`
-* 👥 **Organizational Behaviour:** Analyzing workspace operational dynamics, culture frameworks, and professional environments. `🌟 Grade (A-)`
-
-**⚙️ Core Development Tools**
-* 🛠️ Software & Hardware Testing, Git, GitHub
-* 🤖 **AI-Assisted Development:** Utilizing modern LLMs for rapid prototyping, debugging, and code optimization while maintaining a deep focus on underlying fundamentals.
+I enjoy learning by building real-world software projects and collaborating with others to solve meaningful problems.
 
 ---
 
-### 💼 Core Engineering Values & Soft Skills
+# Current Interests
 
-My approach to engineering is shaped by my experience working in enterprise settings, heavily aligning with philosophies of transparency and product excellence:
-
-* **Do the Right Thing:** Committed to engineering integrity, transparent documentation, and taking complete ownership of my code and testing processes.
-* **Stakeholder-Focused:** Experienced in listening to cross-functional stakeholders, translating complex business feedback into functional technical requirements.
-* **Fundamentals First:** I prioritize understanding the core mechanics of a system before writing code, ensuring solutions are scalable and maintainable.
-* **Team Collaboration:** Focused on writing exceptionally clear technical documentation to ensure seamless asynchronous collaboration with team members.
+- Backend Engineering
+- REST APIs
+- Secure Authentication Systems
+- AI-Assisted Applications
+- Database Design
+- Healthcare Technology
 
 ---
 
-### 🚀 Featured Academic Projects
-*(The projects pinned below showcase my practical application of these concepts. Check them out to see my testing documentation and code structure!)*
+# Technologies & Hands-On Experience
+
+I have gained hands-on experience working with these technologies through academic and collaborative software projects:
+
+```text
+Java
+Python
+JavaScript
+React
+Node.js
+Express.js
+Spring Boot
+PostgreSQL
+Supabase
+JWT Authentication
+Git & GitHub
+REST APIs
+```
+
+---
+
+# Engineering Values
+
+I value:
+- teamwork and collaboration
+- continuous learning
+- clear communication
+- stakeholder-focused thinking
+- integrity and ownership
+- understanding system fundamentals
+
+I appreciate working in environments where people support each other, learn together, and contribute as a team.
+
+---
+
+# Featured Projects
+
+## Mental Wellbeing Chatbot Portfolio
+
+AI-assisted mental wellbeing web application portfolio showcasing:
+- secure JWT authentication
+- modular backend architecture
+- REST API integration
+- Retrieval-Augmented Generation (RAG)
+- persistent multi-user chat workflows
+
+My primary hands-on contributions included:
+- backend API integration
+- authentication workflows
+- middleware implementation
+- service-layer business logic
+- secure session handling
+- testing and debugging workflows
+
+---
+
+## Hotel Booking Relational Design
+
+Collaborative academic project focused on hotel booking system design and relational database modeling.
+
+My contributions included:
+- participating in architecture discussions
+- assisting with entity relationship design
+- documenting entities and relationships
+- learning relational database concepts and workflows
+
+---
+
+## Hotel Booking Legacy Prototype
+
+Java-based hotel booking application prototype developed while learning:
+- Spring Boot backend structure
+- controller-service-model architecture
+- JDBC database connectivity
+- frontend-to-backend API integration
+
+This project helped me better understand the importance of:
+- incremental testing
+- modular debugging
+- validating components independently during development
+
+---
+
+# Currently Learning
+
+- UI/UX design principles using React
+- frontend component design and user experience workflows
+- collaborative design feedback and peer review practices
+- software testing and QA automation
+- introductory psychology and determinants of health
