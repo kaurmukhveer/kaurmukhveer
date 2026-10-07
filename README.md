@@ -1,121 +1,74 @@
 # Hi, I'm Mukhveer Kaur 👋
 
-Computer Science student interested in backend engineering, AI-assisted applications, secure software systems, and healthcare technology.
+Computer Science graduate (University of Ottawa, 2026) based in Ottawa. I build and test software: backend APIs, automated test suites, and CI pipelines. Before software, I spent two years testing and verifying aerospace electronic systems and three years supporting a 5,000+ user IT environment, so I tend to think about how things fail and how to prove they work.
 
-I enjoy learning by building real-world software projects and collaborating with others to solve meaningful problems.
+I'm looking for roles in **software development, QA / test automation, and technical systems**.
 
----
-
-# Current Interests
-
-- Backend Engineering
-- REST APIs
-- AI-Assisted Applications
-- Database Design
-- Healthcare Technology
+📫 [LinkedIn](https://www.linkedin.com/in/mukhveerkaur/) · 📍 Ottawa, ON
 
 ---
 
-# Technologies & Hands-On Experience
+## 🔧 What I work with
 
-I have gained hands-on exposure to these technologies through academic and collaborative software projects:
-
-```text
-Java
-Python
-JavaScript
-React
-Node.js
-Express.js
-Spring Boot
-PostgreSQL
-Supabase
-JWT Authentication
-Git & GitHub
-REST APIs
-```
+| Area | Tools |
+|---|---|
+| **Languages** | Python, JavaScript, Java, SQL |
+| **Testing & CI** | pytest, Jest (mocks, Supertest), GitHub Actions, Bash smoke tests, manual & functional testing |
+| **Backend** | Node.js, Express.js, REST APIs, JWT auth, role-based access control, RabbitMQ |
+| **Data** | PostgreSQL, Supabase, SQLite, pandas, scikit-learn |
+| **Frontend** | React, React Router, Bootstrap, HTML/CSS |
+| **Infrastructure** | Docker / Docker Compose, Linux, Git, networking (routing, VLANs, IPv6, TCP/IP, DNS, DHCP) |
 
 ---
 
-# Engineering Values
+## 🚀 Featured Projects
 
-I value:
-- teamwork and collaboration
-- continuous learning
-- clear communication
-- stakeholder-focused thinking
-- integrity and accountability
-- understanding system fundamentals
+### [Order Events: Messaging System with Automated Test Suite](https://github.com/kaurmukhveer/rabbitmq-order-events)
+`Python` `pytest` `Jest` `GitHub Actions` `Docker` `RabbitMQ` `Node.js` `SQLite`
 
-I appreciate working in environments where people support each other, learn together, and contribute as a team.
+A producer/consumer system with a secured REST API, built to learn asynchronous messaging and test automation end to end.
+- **pytest** suite for the Python message-schema validator and **Jest** unit/API tests using a mocked broker and in-memory database
+- **GitHub Actions** CI runs both suites on Linux and macOS, then starts RabbitMQ as a service container for an end-to-end smoke test
+- JWT authentication with admin/customer roles, manual message acknowledgement, and Docker Compose deployment
+- Built with AI-assisted coding; I reviewed, tested, and verified every component, and debugged the CI pipeline from failing to green
 
----
+### [Mental Wellbeing Web Application (Honours Project)](https://github.com/kaurmukhveer/mental-wellbeing-chatbot-portfolio)
+`Node.js` `Express` `PostgreSQL` `Supabase` `JWT` `React` `Netlify` `Render`
 
-# Featured Projects
+A full-stack AI chatbot app, built with a project partner and deployed to a live cloud environment. *Portfolio repo: architecture and engineering write-ups; source code is not public.*
+- **My work:** backend authentication and API layer: JWT in HTTP-only cookies, bcrypt, auth middleware, REST endpoints
+- Debugged a production cross-origin cookie issue (login 200, then 401) and fixed it with a same-origin API proxy
+- Manually tested the partner-built RAG (retrieval-augmented generation) chatbot pipeline
 
-## Mental Wellbeing Chatbot Portfolio
+### [YouBelong: Community Engagement Platform (Capstone)](https://github.com/Yash3842/You-Belong)
+`React` `TypeScript` `React Router`
 
-AI-assisted mental wellbeing web application portfolio showcasing:
-- secure JWT authentication
-- modular backend architecture
-- REST API integration
-- Retrieval-Augmented Generation (RAG)
-- persistent multi-user chat workflows
+A front-end prototype built by a 7-member team across two universities with 5+ community organizations.
+- Gathered requirements from community partners and translated them into specifications
+- Built (AI-assisted) and manually tested the admin dashboard, user, event, and feedback management screens
 
-My primary hands-on contributions included:
-- backend API integration
-- authentication workflows
-- middleware implementation
-- service-layer business logic
-- secure session handling
-- testing and debugging workflows
+### Front-end & UI/UX projects (individual)
+- [**Bilingual Food Price Dashboard**](https://github.com/kaurmukhveer/food-price-dashboard): English/French data dashboard in React with full UI localization ([live](https://food-price-dashboard.vercel.app/))
+- [**GreenCare Lawn Services**](https://github.com/kaurmukhveer/greencare-lawn-service): customer and admin booking flows with React Router ([live](https://greencare-lawn-service.vercel.app/))
+- [**Portfolio Website**](https://github.com/kaurmukhveer/portfolio-website): component-based React portfolio ([live](https://portfolio-website-two-lyart-25.vercel.app/))
+- **Bloom Memory**: persona-driven memory card game ([live](https://bloom-memory.vercel.app/)) · **TechNest**: e-commerce prototype ([live](https://technest-ecommerce-azure.vercel.app/))
 
----
-
-## Software Requirements Engineering Project
-
-Collaborative academic project focused on stakeholder analysis, requirements engineering, system modeling, and iterative documentation.
-
-Key learning areas included:
-- user stories and personas
-- functional and non-functional requirements
-- UML and interface prototyping
-- stakeholder interviews
-- collaborative software documentation
-  
----
-
-## Hotel Booking Relational Design
-
-Collaborative academic project focused on hotel booking system design and relational database modeling.
-
-My contributions included:
-- participating in architecture discussions
-- assisting with entity relationship design
-- documenting entities and relationships
-- learning relational database concepts and workflows
+### Academic team projects
+- [**Software Requirements Engineering**](https://github.com/kaurmukhveer/software-requirements-engineering-project): stakeholder analysis, user stories, UML, requirements specification
+- [**Hotel Booking: Relational Design**](https://github.com/kaurmukhveer/hotel-booking-relational-design) and [**Legacy Prototype**](https://github.com/kaurmukhveer/hotel-booking-legacy-prototype): ER modelling and a Java/Spring Boot booking prototype
 
 ---
 
-## Hotel Booking Legacy Prototype
+## 💼 Background
 
-Java-based hotel booking application prototype developed while learning:
-- Spring Boot backend structure
-- controller-service-model architecture
-- JDBC database connectivity
-- frontend-to-backend API integration
-
-This project helped me better understand the importance of:
-- incremental testing
-- modular debugging
-- validating components independently during development
+- **Computer Technician Support**, University of Ottawa (2022–2026): network and system troubleshooting, SCCM/PXE workstation deployment across 8+ labs, Active Directory administration for 2,000+ users
+- **Electronic Technician**, Star Navigation Systems (2020–2022): functional testing and hardware/software verification of aerospace electronics against acceptance criteria, root-cause analysis, test fixtures
+- **Education:** B.Sc. Honours Computer Science, University of Ottawa · Electronics Engineering Technician Diploma, Sheridan College
 
 ---
 
-# Currently Learning
+## 📚 Currently learning
 
-- UI/UX design principles using React
-- frontend component design and user experience workflows
-- collaborative design feedback and peer review practices
-- software testing and QA automation concepts
-- introductory psychology and determinants of health
+- Expanding test automation: API testing with pytest + `requests`, test reporting
+- Optical networking fundamentals (DWDM, pluggable optics)
+- Deeper Python and Java
