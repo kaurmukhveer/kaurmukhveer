@@ -4,7 +4,7 @@ Computer Science graduate (University of Ottawa, 2026) based in Ottawa. I build 
 
 I'm looking for roles in **software development, QA / test automation, and technical systems**.
 
-🌐 [Portfolio](https://mukhveer-portfolio.vercel.app/) · 📫 [LinkedIn](https://www.linkedin.com/in/mukhveerkaur/) · 📍 Ottawa, ON
+🌐 [Front-end portfolio](https://mukhveer-portfolio.vercel.app/) · 📫 [LinkedIn](https://www.linkedin.com/in/mukhveerkaur/) · 📍 Ottawa, ON
 
 ---
 
@@ -50,7 +50,7 @@ A front-end prototype built by a 7-member team across two universities with 5+ c
 ### Front-end & UI/UX projects (individual)
 - [**Bilingual Food Price Dashboard**](https://github.com/kaurmukhveer/food-price-dashboard): English/French data dashboard in React with full UI localization ([live](https://food-price-dashboard.vercel.app/))
 - [**GreenCare Lawn Services**](https://github.com/kaurmukhveer/greencare-lawn-service): customer and admin booking flows with React Router ([live](https://greencare-lawn-service.vercel.app/))
-- [**Portfolio Website**](https://github.com/kaurmukhveer/portfolio-website): component-based React portfolio ([live](https://mukhveer-portfolio.vercel.app/))
+- [**Portfolio Website**](https://github.com/kaurmukhveer/portfolio-website): component-based React site showcasing my front-end and UI/UX work ([live](https://mukhveer-portfolio.vercel.app/))
 - **Bloom Memory**: persona-driven memory card game ([live](https://bloom-memory.vercel.app/)) · **TechNest**: e-commerce prototype ([live](https://technest-ecommerce-azure.vercel.app/))
 
 ### Academic team projects
